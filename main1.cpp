@@ -22,7 +22,7 @@ int main() {
 	
 	return 0;
 } 
-
+  
 /*
 ¬ывести на печать размеры указателей дл€ типов  
 bool, int, char, long long
